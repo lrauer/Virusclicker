@@ -1,0 +1,2 @@
+# Virusclicker
+just some idlegame
